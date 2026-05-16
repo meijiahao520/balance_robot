@@ -1,0 +1,22 @@
+# Build outputs and IDE metadata
+MDK-ARM/balance_robot_stm/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+
+# Common toolchain artifacts
+**/*.o
+**/*.d
+**/*.crf
+**/*.dep
+**/*.axf
+**/*.map
+**/*.lst
+**/*.lnp
+**/*.scvd
+**/*.bak
+**/*.tmp
+**/*.log
+**/*.htm
+**/*.html
+**/*.hex
+**/*.bin
